@@ -1,0 +1,134 @@
+[
+    {
+        "text": [
+            {
+                "content": "The Reinforcement Sensitivity Theory ( RST ) of Personality is a theoretical account of the neural and psychological processes underlying the major dimensions of personality .",
+                "indent(depth)": 2,
+                "sentence-id": 0
+            },
+            {
+                "content": "The first section of this introductory chapter traces the development of RST , from its official birth in 1970 , through to Gray 's highly influential 1982 The Neuropsychology of Anxiety , and on to its major revision in 2000 with the second edition of this book ( co-authored with Neil McNaughton ) \u2014this section may be read as an overview tutorial of RST .",
+                "indent(depth)": 3,
+                "sentence-id": 1
+            },
+            {
+                "content": "The second section discusses some of the major issues facing future RST research .",
+                "indent(depth)": 4,
+                "sentence-id": 2
+            },
+            {
+                "content": "The third section turns attention to the question of the level of behavioral control exerted by ` biological ' and ` cognitive ' processes , and discusses the implications of findings from consciousness studies for conceptualizing the role of these processes in RST .",
+                "indent(depth)": 4,
+                "sentence-id": 3
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ]
+    },
+    {
+        "text": [
+            {
+                "content": "The Reinforcement Sensitivity Theory ( RST ) of Personality is a theoretical account of the neural and psychological processes underlying the major dimensions of personality .",
+                "indent(depth)": 2,
+                "sentence-id": 0
+            },
+            {
+                "content": "The first section of this introductory chapter traces the development of RST , from its official birth in 1970 , through to Gray 's highly influential 1982 The Neuropsychology of Anxiety , and on to its major revision in 2000 with the second edition of this book ( co-authored with Neil McNaughton ) \u2014this section may be read as an overview tutorial of RST .",
+                "indent(depth)": 3,
+                "sentence-id": 1
+            },
+            {
+                "content": "The second section discusses some of the major issues facing future RST research .",
+                "indent(depth)": 4,
+                "sentence-id": 2
+            },
+            {
+                "content": "The third section turns attention to the question of the level of behavioral control exerted by ` biological ' and ` cognitive ' processes , and discusses the implications of findings from consciousness studies for conceptualizing the role of these processes in RST .",
+                "indent(depth)": 4,
+                "sentence-id": 3
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ]
+    },
+    {
+        "text": [
+            {
+                "content": "The Reinforcement Sensitivity Theory ( RST ) of Personality is a theoretical account of the neural and psychological processes underlying the major dimensions of personality .",
+                "indent(depth)": 2,
+                "sentence-id": 0
+            },
+            {
+                "content": "The first section of this introductory chapter traces the development of RST , from its official birth in 1970 , through to Gray 's highly influential 1982 The Neuropsychology of Anxiety , and on to its major revision in 2000 with the second edition of this book ( co-authored with Neil McNaughton ) \u2014this section may be read as an overview tutorial of RST .",
+                "indent(depth)": 3,
+                "sentence-id": 1
+            },
+            {
+                "content": "The second section discusses some of the major issues facing future RST research .",
+                "indent(depth)": 4,
+                "sentence-id": 2
+            },
+            {
+                "content": "The third section turns attention to the question of the level of behavioral control exerted by ` biological ' and ` cognitive ' processes , and discusses the implications of findings from consciousness studies for conceptualizing the role of these processes in RST .",
+                "indent(depth)": 4,
+                "sentence-id": 3
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ]
+    }
+]

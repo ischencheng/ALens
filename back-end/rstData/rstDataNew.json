@@ -1,0 +1,920 @@
+[
+    {
+        "text": [
+            {
+                "content": "Cardiovascular diseases account for the highest mortality rate worldwide and are expected to be the major cause of death by 2020 ( 1 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": 0
+            },
+            {
+                "content": "Studies in Iran showed that cardiovascular diseases are the most important cause of death and accounted for 42% of all deaths in 2002 ( 2 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 1,
+                "sentence-index": 1
+            },
+            {
+                "content": "Timely diagnosis and proactive measures play a significant role in effective treatment , prevention development of heart damages and the faster recovery of cardiovascular diseases .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": 2
+            },
+            {
+                "content": "The time it takes to reach a hospital or a coronary care unit ( CCU ) and the time spent for diagnostic and treatment measures are factors influencing the delay or loss of time from the outset of severe cardiac infarction to the beginning of treatment ( 3 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 3,
+                "sentence-index": 3
+            },
+            {
+                "content": "Overall , the mortality rate of severe cardiovascular deaths is 30% , more than half of which occurs before hospitalization ( 3 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 4,
+                "sentence-index": 4
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "cause",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "type": "introduction"
+    },
+    {
+        "text": [
+            {
+                "content": "The epidemic of cardiovascular diseases in the developing countries first affects the affluent individuals .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": 5
+            },
+            {
+                "content": "However , with the advancement of the epidemic this social trend reverses and people at lower socioeconomic classes become more vulnerable ( 3 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 1,
+                "sentence-index": 6
+            },
+            {
+                "content": "Studies conducted in some developing countries showed that the underprivileged are more susceptible to cardiac arrests compared to affluent people ( 4 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": 7
+            },
+            {
+                "content": "Furthermore , limited accessibility to health services and the inequality in availability of the services furnished by health and treatment systems deprives these people of acceptable and effective treatment ( 5 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 3,
+                "sentence-index": 8
+            },
+            {
+                "content": "Lim-ited and unequal accessibility to health services in Iran are one of the controversial issues mentioned in several studies ( 5-7 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 4,
+                "sentence-index": 9
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "comparison",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "type": "introduction"
+    },
+    {
+        "text": [
+            {
+                "content": "In general , one of the most important goals of a health system is to provide public accessibility and equality in receiving health and treatment services .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 10
+            },
+            {
+                "content": "As one measure of development , accessibility to health is one of the basic rights of individuals in the society .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 11
+            },
+            {
+                "content": "One of the main points in meting out fairness in the health system is that the distribution of health services must not be based on the socio-economic status and incomes of individuals ( 8 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 12
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            }
+        ],
+        "type": "introduction"
+    },
+    {
+        "text": [
+            {
+                "content": "Inequality in health services in different countries has taken the form of a global challenge affected by various factors , including individual , social , economic and geographical variables ( 9 ) .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 13
+            },
+            {
+                "content": "These factors are stronger in developing countries ( 8 , 10 ) so that distribution of health services resources in developing countries has turned into a fundamental issue .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 14
+            },
+            {
+                "content": "Therefore , the measurement of fair distribution of health services on top of previous measures has been emphasized by World Health Organization ( WHO ) ( 11 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 15
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "type": "introduction"
+    },
+    {
+        "text": [
+            {
+                "content": "Inequality in distribution of health services is measured by different scales one of the most common is the Gini coefficient which is based on the Lorenz curve ( 12 ) .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 16
+            },
+            {
+                "content": "Although multiple measures of inequality have been shown to be highly correlated with each other ( 7 , 12 ) , the results of several studies are encouraging and confirming the utility of the Gini index in quantifying inequalities in health-related subjects .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 17
+            },
+            {
+                "content": "Thus , the Gini index and Lorenz curve are commonly used in analyzing the inequality in distribution of health care resources ( 1316 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 18
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "type": "introduction"
+    },
+    {
+        "text": [
+            {
+                "content": "Since accessibility to intensive healthcare , in particular for cardiovascular conditions , is of utmost importance and since the appropriate distribution of coronary care unit ( CCU ) beds and cardiologists can be taken as a measure , the present study aims to examine the inequality of the geographical distribution of CCU beds and cardiologists in Iran using the Gini coefficient and the Lorenz curve .",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": 19
+            }
+        ],
+        "line": [],
+        "type": "introduction"
+    },
+    {
+        "text": [
+            {
+                "content": "This study conducted useing demographic data from national census in 2012 collected by the Statistics Center of Iran ( SCI ) .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 20
+            },
+            {
+                "content": "The number of CCU beds and cardiologists in public sector by province in 2012 was obtained from Iran Ministry of Health and Medical Education .",
+                "indent(depth)": 2,
+                "sentence-id": 1,
+                "sentence-index": 21
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            }
+        ],
+        "type": "method"
+    },
+    {
+        "text": [
+            {
+                "content": "In the present study among various possible inequality measures ( such as Gini coefficient , decile ratio , Robin Hood index and Atkinson index ) preference was given to the Gini coefficient because it has at least three major advantages ( 17 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": 22
+            },
+            {
+                "content": "First , it is less sensitive to the number of regions and the size of the numerical values in the data material in general .",
+                "indent(depth)": 4,
+                "sentence-id": 1,
+                "sentence-index": 23
+            },
+            {
+                "content": "Second , it is conditional on the mean and bounded between 0 and 1 .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": 24
+            },
+            {
+                "content": "Third , Gini coefficient can be presented visually by means of a Lorenz curve ; which provides an effective visualization of the inequalities .",
+                "indent(depth)": 2,
+                "sentence-id": 3,
+                "sentence-index": 25
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ],
+        "type": "method"
+    },
+    {
+        "text": [
+            {
+                "content": "The Lorenz curve compares the distribution of a given variable with the normal distribution ( of same variable ) that represents equality .",
+                "indent(depth)": 5,
+                "sentence-id": 0,
+                "sentence-index": 26
+            },
+            {
+                "content": "This equality distribution is shown by a diagonal line .",
+                "indent(depth)": 5,
+                "sentence-id": 1,
+                "sentence-index": 27
+            },
+            {
+                "content": "The grater gap between the Lorenz curve and diagonal line means the higher inequality .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": 28
+            },
+            {
+                "content": "In this curve , the X axis represents the cumulative percentage of population and the Y axis shows the percentage of the variable which is expressed as the proportion of the cumulative population .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": 29
+            },
+            {
+                "content": "The 45-degree line is called the equality line because of showing the completely equal distribution ( 5 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 4,
+                "sentence-index": 30
+            },
+            {
+                "content": "In our study , the X axis represents the cumulative percentage of population of Iranian provinces and the Y axis shows the cumulative frequency of cardiologists and CCU beds in the Iranian provinces .",
+                "indent(depth)": 2,
+                "sentence-id": 5,
+                "sentence-index": 31
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "type": "method"
+    },
+    {
+        "text": [
+            {
+                "content": "The Gini coefficient is defined as the division of the area between diagonal line and the Lorenz curve ( 14 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": 32
+            },
+            {
+                "content": "Mathematically speaking , g1=1k=1n ( xkxk1 ) ( yk+yk1 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 33
+            },
+            {
+                "content": "Where X represents the cumulative per-centage of the population and Y represents the cumulative percentage of CCU beds and cardiologists .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": 34
+            },
+            {
+                "content": "The Gini coefficient ranges between 0 and 1 in which , theoretically , 0 represents complete equality and 1 shows complete inequality of the distribution of a given variable .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": 35
+            },
+            {
+                "content": "In practice , however , a coefficient below 0.2 is considered complete equality , one ranging between 0.2 and 0.3 shows high equality , one ranging between 0.3 and 0.4 indicates inequality ; a coefficient varying between 0.4 and 0.6 indicates high inequality and a coefficient larger than 0.6 represents complete inequality ( 14 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 4,
+                "sentence-index": 36
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "summary",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "type": "method"
+    },
+    {
+        "text": [
+            {
+                "content": "In this study it is assumed that more cardiologist and CCU beds are associated with more access to cardiovascular health services , so that people in provinces with higher per capital level of cardiologist and CCU beds have more access to cardiovascular health resources/services .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 37
+            },
+            {
+                "content": "Finally , in order to calculate Gini coefficient , the demographic data and also the number of CCU beds and cardiologists by province were entered and analyzed through MS Excel software .",
+                "indent(depth)": 2,
+                "sentence-id": 1,
+                "sentence-index": 38
+            }
+        ],
+        "line": [],
+        "type": "method"
+    },
+    {
+        "text": [
+            {
+                "content": "In 2012 , Iran had a total population of 75 , 149 , 669 with total number of 3665 CCU beds and the total number of 953 cardiologists in public sector .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 39
+            },
+            {
+                "content": "The province of Tehran had the largest percentage of CCU beds ( 23.7% ) and cardiologists ( 17% ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 40
+            },
+            {
+                "content": "There were respectively 4.8 and 1.3 CCU beds and cardiologists across the nation per 100 , 000 individuals .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 41
+            },
+            {
+                "content": "Furthermore , there were 2.6 cardiologists per 10 CCU beds across the country .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": 42
+            },
+            {
+                "content": "Table 1 shows the number of cardiologists and CCU beds per 100 , 000 individuals and the number of car-diologists per 10 CCU beds by province in 2012 .",
+                "indent(depth)": 4,
+                "sentence-id": 4,
+                "sentence-index": 43
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "type": "result"
+    },
+    {
+        "text": [
+            {
+                "content": "The Lorenz curves for the CCU beds and cardiologists are illustrated in Figures 1 and 2 .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 44
+            },
+            {
+                "content": "The Gini coefficients obtained for CCU beds and cardiologists were 0.129 and 0.045 , respectively .",
+                "indent(depth)": 2,
+                "sentence-id": 1,
+                "sentence-index": 45
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            }
+        ],
+        "type": "result"
+    },
+    {
+        "text": [
+            {
+                "content": "The findings showed that the national mean number of CCU beds for a population of 100 , 000 is 4.88 , which 23 ( out of a total of 31 ) provinces are below the national mean .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 46
+            },
+            {
+                "content": "However , the obtained Gini coefficients prove statically adequate equality for the geographical distribution of CCU beds across Iran .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 47
+            },
+            {
+                "content": "A previous study showed that the province of Yazd enjoys the most equal distribution of CCU beds on one hand , and",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 48
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "type": "discussion"
+    },
+    {
+        "text": [
+            {
+                "content": "the province of Ilam suffers from the least equal distribution of CCU beds ( 16 ) .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 49
+            },
+            {
+                "content": "A study on distribution of active hospital bed in Iran , reported the Gini coefficient for active bed 0.08 and active beds for a population of 10 , 000 people in 2006 9.2 , while the province of Yazd had maximum , and the province of Lorestan the minimum beds per population ( 18 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 50
+            },
+            {
+                "content": "Another study conducted in 2002 using Morris Imbalance Coefficient , showed the province of Yazd stands at the highest rank in terms of the number of hospital beds , and the province of Semnan ranks the highest in terms of the number of health centers ( 19 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 51
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "type": "discussion"
+    },
+    {
+        "text": [
+            {
+                "content": "A study conducted in the Netherlands on the distribution of CCU beds in 24 university hospitals for the period 2004-2006 reported Gini coefficients of 0.638 , 0.569 and 0.569 , which reflected unequal distribution",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": 52
+            }
+        ],
+        "line": [],
+        "type": "discussion"
+    },
+    {
+        "text": [
+            {
+                "content": "The present study findings showed that the mean number of cardiologists per 100 , 000 individuals is 1.27 .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": 65
+            },
+            {
+                "content": "Also , the mean number of cardiologists per 10 CCU is 2.6 which 13 provinces are below the national mean ( out of a total of 31 provinces ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 66
+            },
+            {
+                "content": "The obtained Gini coefficient ( 0.045 ) proves statically adequate equality in the geographical distribution of cardiologists across Iran .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 67
+            },
+            {
+                "content": "A study conducted on the distribution of specialist physicians in Iran at 2010 showed that the numbers of total specialists per 10 , 000 individuals and per 10 active beds in the country were 1.7 and 1.9 , respectively and the Gini coefficient of distribution of total specialists reported 0.052",
+                "indent(depth)": 3,
+                "sentence-id": 3,
+                "sentence-index": ""
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "type": "discussion"
+    },
+    {
+        "text": [
+            {
+                "content": "Our study descriptive statistics showed a skewed distribution of CCU beds in Iran , so that the capital Tehran , accommodating one sixth of the total population of Iran , owns one fourth of total CCU beds in Iran .",
+                "indent(depth)": 4,
+                "sentence-id": 0,
+                "sentence-index": 79
+            },
+            {
+                "content": "In a similar study by Ameryoun et al .",
+                "indent(depth)": 6,
+                "sentence-id": 1,
+                "sentence-index": 80
+            },
+            {
+                "content": "on the Non-Cardiac Intensive Care Beds in Tehran the ratios of all Non-Cardiac Intensive Care Beds were almost two times higher than other provinces ( 14 ) .",
+                "indent(depth)": 6,
+                "sentence-id": 2,
+                "sentence-index": 81
+            },
+            {
+                "content": "Also , in another study by Tofighi et al .",
+                "indent(depth)": 5,
+                "sentence-id": 3,
+                "sentence-index": 82
+            },
+            {
+                "content": "on the distribution of specialists , Tehran owns 23% of all specialists across the country ( 18 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 4,
+                "sentence-index": 83
+            },
+            {
+                "content": "However , a study conducted in 2002 ( 19 ) showed that by Morris measure , the health centers in Tehran do not constitute a balanced distribution , burdened with problems such as traffic jams and other problems rampant in metropolitan cities , causing delays and waste of time from the beginning of acute myocardial infarction symptoms to the initiation of treatment ( accessibility to the CCU bed ) .",
+                "indent(depth)": 5,
+                "sentence-id": 5,
+                "sentence-index": 84
+            },
+            {
+                "content": "Furthermore , problems such as overcrowded hospitals in Tehran , a drop in quality and quantity of health services , inadequacy of services on one hand and waste of funds for the provinces and finally a drop in public health on the other hand are other problems plaguing megacities .",
+                "indent(depth)": 5,
+                "sentence-id": 6,
+                "sentence-index": 85
+            },
+            {
+                "content": "Therefore , health policy makers should emphasize decentralization in Tehran and identify extra health facilities in different cities so that a balanced allocation of resources may be achieved .",
+                "indent(depth)": 2,
+                "sentence-id": 7,
+                "sentence-index": 86
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "cause",
+                "indent(depth)": 3,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 5,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 2,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 3,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 5
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 6
+            },
+            {
+                "rst_type": "cause",
+                "indent(depth)": 1,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 7
+            }
+        ],
+        "type": "discussion"
+    },
+    {
+        "text": [
+            {
+                "content": "Fair geographical distribution of health services would lead to efficient and cost-effective health system .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 87
+            },
+            {
+                "content": "While existing classificatory models in Iran focus on structural development , the number of beds and a model of providing health services , few studies have concentrated on the distribution by area , classification and defining areas on the basis of optimal distribution of health services ( 26 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 88
+            },
+            {
+                "content": "Therefore , current study may provide a foundation for largescale planning for the health systems in order to remove the inequality in the distribu-tion of health services .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": 89
+            },
+            {
+                "content": "Further research and surveys are strongly recommended to acquire more information and monitor the fairness of distribution of different health systems nationally and across provinces .",
+                "indent(depth)": 6,
+                "sentence-id": 3,
+                "sentence-index": 90
+            },
+            {
+                "content": "The aforementioned results represent an initial empirical approximation , the validity of which is limited for the following reasons .",
+                "indent(depth)": 6,
+                "sentence-id": 4,
+                "sentence-index": 91
+            },
+            {
+                "content": "First , counting the number of cardiologists and CCU beds is not an appropriate way to measure extant cardiovascular care and access to it ( a more sufficient reliable measure in Iran is not available yet ) .",
+                "indent(depth)": 6,
+                "sentence-id": 5,
+                "sentence-index": 92
+            },
+            {
+                "content": "Second , the methodology used to measure inequality is not perfect and biased with limitations in measuring inequality ; for example , \u201cutilizing the Gini coefficient showed that there is no significant inequality in the distribution of pubic cardiovascular health services in Iran , though , primary information on the distribution of beds and cardiologists showed that about one-fourth of the CCU beds are existed in Tehran , where one-sixth of the total population of Iran is living\u201d .",
+                "indent(depth)": 7,
+                "sentence-id": 6,
+                "sentence-index": 93
+            },
+            {
+                "content": "Such interpretations are helpful for providing an approximation of existing distributions and can show some limitations of using inequality measures .",
+                "indent(depth)": 7,
+                "sentence-id": 7,
+                "sentence-index": 94
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 1,
+                "span(textChildNum)": 7,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 6,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 5,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 5,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 4,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 5
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 5,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 6
+            }
+        ],
+        "type": "discussion"
+    },
+    {
+        "text": [
+            {
+                "content": "Despite the fact that the present study is one of the few studies conducted on the geographical distribution of one health services ( Cardiovascular Health Services ) in Iran , selecting only two factors ( the number of beds and physicians in the distribution of facilities ) and administering only one measure ( the Gini coefficient ) may be considered as the limitations of this study .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 95
+            },
+            {
+                "content": "Also , because of the unavailability of private sector and province-specific data , the research did not consider the private sector capacity and could not produce detailed provincial results , which are hoped to be overcome in future studies .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 96
+            },
+            {
+                "content": "Measuring equality in distribution of private sector resources or all the private and public resources together could have extremely different results .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 97
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "type": "discussion"
+    },
+    {
+        "text": [
+            {
+                "content": "Using Gini measure showed that there is no significant inequality in the distribution of pubic cardiovascular health services in Iran .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": 98
+            },
+            {
+                "content": "Nevertheless , our descriptive statistics showed that there is a skewness in distribution of pubic cardiovascular health services in Iran .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": 99
+            },
+            {
+                "content": "Moreover , even the equal distribution of cardiovascular health facilities such as CCU beds , does not mean they are sufficiently provided in Iran .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": 100
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "type": "conclusion"
+    }
+]

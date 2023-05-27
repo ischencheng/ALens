@@ -1,0 +1,1606 @@
+[
+    {
+        "text": [
+            {
+                "content": "Introduction",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 0
+    },
+    {
+        "text": [
+            {
+                "content": "Refinement of discectomy procedure continued since Dandy [ 1 ] reported removal of a \u2018\u2018disc chondroma\u2019\u2019 from patients with sciatica .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "In 1934 Mixter and Barr [ 2 , 3 ] attributed sciatica to lumbar disc herniation and suggested discectomy through total laminectomy and transdural approach .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "In 1939 Semmes [ 4 ] presented a subtotal laminectomy and retraction of the dural sac to remove the herniated disc .",
+                "indent(depth)": 2,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            }
+        ],
+        "paragraph-id": 1
+    },
+    {
+        "text": [
+            {
+                "content": "Despite the conflicting outcome reports , open discectomy is considered the standard method of treatment for lumbar disc herniation [ 5 ] .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Surgical violation in open lumbar discectomy predisposes to failed back surgery through segmental instability ( occurred in 28 % of patients ) and Perineural scarring ( occurred in 34 % of patients ) [ 6 ] .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "An analysis of several clinical studies revealed the occurrence of operation-induced destabilization due to the necessary resection of spinal canal structures [ 7\u201314 ] .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "The muscle and ligaments stripping , dissection and excessive cauterization influence the stabilization and coordination system in the innervation area of the dorsal nerve roots of the spinal nerves [ 15\u201317 ] , and could aggravate segmental instability and cause an incidence of 11\u201315 % postoperative disabling low back pain [ 18\u201323 ] .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ],
+        "paragraph-id": 2
+    },
+    {
+        "text": [
+            {
+                "content": "Perineural scarring about the dura and nerve roots after lumbar disc surgery is another important cause of failed surgery .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Many theories have been postulated to explain pathogenesis of epidural fibrosis .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Postlaminectomy scar is caused by damage to the erector spine muscles overlying the laminectomy site [ 24 ] .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "Excessive cauterization of epidural veins inhibits nerve roots nutrition causing intraneural , epidural fibrosis and arachnoiditis [ 25 ] .",
+                "indent(depth)": 5,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "Epidural hematoma , epidural venous bleeding and arterial bleeding from paravertebral muscles occurring in the path of surgical dissection are gradually absorbed and replaced by granulation tissue which matures into dense fibrous tissue [ 26 ] .",
+                "indent(depth)": 5,
+                "sentence-id": 4,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "paragraph-id": 3
+    },
+    {
+        "text": [
+            {
+                "content": "In 1997 Foley and Smith [ 27 , 28 ] introduced the microendoscopic discectomy ( MED ) procedure and presented the results of the first 100 cases .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "They introduced a rigid endoscope through a tubular retractor inserted in a minimally invasive muscle splitting approach produced by introduction of a series of sequential dilators , allowing discectomy through a direct posterior approach which is familiar to spine surgeons [ 29 ] .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Since then , only one study compared retrospectively the clinical outcomes of MED and open discectomy with a mean follow-up of 28 months [ 30 ] , other studies compared postoperative MRI [ 31 ] or intraoperative EMG studies [ 32 ] of patients with lumbar disc herniation treated with MED and control group treated with open discectomy .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            }
+        ],
+        "paragraph-id": 4
+    },
+    {
+        "text": [
+            {
+                "content": "Materials and methods",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 5
+    },
+    {
+        "text": [
+            {
+                "content": "We enrolled 200 patients with clinically-symptomatic large uncontained lumbar disc herniation who underwent discectomies at Zagazig University Hospitals , Egypt , between August 2002 and August 2004 .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "There were 112 male and 88 female whose age ranged from 18 to 54 years ( mean 30.9 years ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "The mean duration of symptoms was 3.04 months for MED group and 3.5 months for open discectomy group .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "All patients had received conservative treatment in the form of limited duty , NSAIDs , muscle relaxants , neurotrophics , opioid analgesics and a comprehensive course of 20 sessions of physiotherapy ( mean 3.1 months ) .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "Patient characteristics are listed in Table 1 .",
+                "indent(depth)": 4,
+                "sentence-id": 4,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "paragraph-id": 6
+    },
+    {
+        "text": [
+            {
+                "content": "Patients were divided into two groups , 100 patients each who underwent either standard open discectomy , or Microendoscopic discectomy utilizing METRx system ( Medtronic Sofamor Danek , Inc. , Memphis , TN , USA ) .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Patients of both groups had a very similar clinical profile .",
+                "indent(depth)": 4,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Determination of the general indication for disc surgery was made by two experienced physicians who were not affiliated with the study .",
+                "indent(depth)": 5,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "Randomization was open since the patients must sign a detailed informed consent and was made by nonphysician study staff alternating between the open discectomy or MED in the sequence of presentation ( were allocated so that the patient 1 got 1st , type of surgery , and number 2 a 2nd , type etc. ) .",
+                "indent(depth)": 5,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "All operations were performed by the authors who have considerable experience in both techniques .",
+                "indent(depth)": 3,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "All the participants gave their written consent in accordance to the Helsinki Declaration [ 33 ] .",
+                "indent(depth)": 4,
+                "sentence-id": 5,
+                "sentence-index": -1
+            },
+            {
+                "content": "The study was approved by the Ethical Research Committees of Zagazig University Hospitals .",
+                "indent(depth)": 4,
+                "sentence-id": 6,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 5
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 6
+            }
+        ],
+        "paragraph-id": 7
+    },
+    {
+        "text": [
+            {
+                "content": "The inclusion criteria for patients in this study were : ( 1 ) single level of disc herniation , with typical radiculopathy that is more dominant than back pain on one side , ( 2 ) a history of disability that limits every day activity and work , ( 3 ) evident disc herniation on magnetic resonance imaging MRI with an antero-posterior diameter of the extruded fragment ( 6\u201312 mm ) or more on axial cuts ( Fig .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "1 ) [ 34 ] .",
+                "indent(depth)": 2,
+                "sentence-id": 1,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            }
+        ],
+        "paragraph-id": 8
+    },
+    {
+        "text": [
+            {
+                "content": "Exclusion criteria included : ( 1 ) successful non-operative measures , ( 2 ) long segment lumbar stenosis , ( 3 ) previous operative procedures on the same disc level , ( 4 ) clinical and radiographic evidence of congenital anomalies , marked instability , disc pulge or degeneration without radiculopathy , or infection .",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 9
+    },
+    {
+        "text": [
+            {
+                "content": "The control group consisted of 90 patients ( mean age of 31.5 years ) with herniated lumbar disc disease treated via standard open posterior lumbar discectomy during the same period .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "These surgeries were performed at the same institution and by the same surgeons .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "The inclusion and exclusion criteria were similar to the MED group .",
+                "indent(depth)": 2,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "paragraph-id": 10
+    },
+    {
+        "text": [
+            {
+                "content": "Primary ( clinical ) outcomes data included Numerical Rating Scale ( NRS ) ( range 0\u2013100 ) [ 35 ] for back and leg symptoms and Oswestry Disability Index ( ODI ) [ 36 ] \u2013\u2013version 2.0 [ the sex question ( Section 8 ) is unacceptable in our community , therefore , it was removed from the questionnaire ] .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "The total possible score became 45 .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "The final score is calculated and presented as a percentage ( 0 % represents no pain and disability and 100 % represents the worst possible pain and disability ) .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "Secondary ( objective ) outcomes data included operative time , blood loss , postoperative analgesics , length of hospital stay , time to return to work/activity , reoperation rate and complication rate and patient satisfaction index [ 37 ] and modified MacNab criteria [ 38 ] .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ],
+        "paragraph-id": 11
+    },
+    {
+        "text": [
+            {
+                "content": "MED technique",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 12
+    },
+    {
+        "text": [
+            {
+                "content": "An 18 mm tubular retractor was inserted over the sequential dilators that were inserted over a guide wire directed to superior lamina of the desired level then the rigid endoscope was inserted into the tubular retractor .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Partial flavectomy was performed after laminotomy in which we limit the excision of the Ligamentum flavum enough to see the lateral edge of the dural sac and the traversing nerve root ( 5\u201310 mm ) then retract them both medially with their covering of ligamentum flavum ( to reduce epidural scarring and adhesions ) , then perform discectomy .",
+                "indent(depth)": 4,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "In almost all cases we found the large extrusion directly under the ligamentum flavum .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "We could search for caudal sequestration by placing the endoscope cephalic and with the help of angled ball probe we could retrieve part or all of the sequestration by sweeping under the dural sac or posterior longitudinal ligament or searching into intervertebral foramen and lateral recess then we pull it out with the help a rongeur ( Fig .",
+                "indent(depth)": 3,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "2 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 4,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "paragraph-id": 13
+    },
+    {
+        "text": [
+            {
+                "content": "Open discectomy procedure",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 14
+    },
+    {
+        "text": [
+            {
+                "content": "Without the use of operating microscope , 8\u201310 cm medline skin incision was centered over the affected level after fluoroscopic verification .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Using cutting diathermy dorsolumbar fascia was incised , then stripping the paraspinal muscles off the spinous processes and lamina was performed until the facet joints laterally , then muscles were retracted laterally using a self-retaining retractor .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Using Kerrison\u2019s Rongeur we did hemilaminectomy depending on the preoperative planning then locating and removal of the extruded or the sequestrated disc material .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "paragraph-id": 15
+    },
+    {
+        "text": [
+            {
+                "content": "Follow-up",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 16
+    },
+    {
+        "text": [
+            {
+                "content": "Follow-up data were obtained from clinic follow-up visits and telephone calls by two independent physicians ; before surgery , after surgery at day 1 ( 200 patients in hospital before discharge ) , 6 months ( 198 patients : 132 in outpatient clinic and 66 by phone calls ) , 1 year ( 194 patients : 119 in OPC , 75 by phone ) , 2 years ( 192 patients : 85 in OPC , 107 by phone ) , 4 years ( 189 patients : 86 in OPC , 103 by phone ) , 6 years ( 187 patients : 83 in OPC , 104 by phone ) , and at the final follow-up visit at 8 years ( 185 patients : 86 in OPC , 99 by phone ) ( 92.5 % ) ( 95 9 MED , 90 9 open discectomy ) .",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "The remaining cases were lost for the following reasons : 3 surgery-unrelated death , 2 patients did not respond to telephone calls , and 10 underwent intervertebral fusion at the same level of discectomy .",
+                "indent(depth)": 1,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Although eight patients in the MED group were converted to open procedure they were not counted among the control group ( six to deal with intraoperative iatrogenic dural tear and two for revision after recurrence of radicular symptoms after 4 months ) .",
+                "indent(depth)": 1,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 17
+    },
+    {
+        "text": [
+            {
+                "content": "Statistical analysis",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 18
+    },
+    {
+        "text": [
+            {
+                "content": "Change in outcome measures from baseline during the entire follow-up was assessed with a general linear model for repeated measures ( SPSS , version 12.0.1 ) .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "The baseline measurement of the outcome variable was entered as a covariant into the model .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "To compare continuous quantitative variables between the groups at different times of follow-up we utilized Student\u2019s t tests ( Paired and Independent Sample t test ) .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "Chi-square test was used to test the differences between the two groups in terms of categorical data .",
+                "indent(depth)": 6,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "A positive significance level was assumed at P\\0.05 .",
+                "indent(depth)": 7,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "Statistical analysis was performed to examine intraobserver reproducibility and interobserver reliability .",
+                "indent(depth)": 7,
+                "sentence-id": 5,
+                "sentence-index": -1
+            },
+            {
+                "content": "Single-measure intraclass correlation coefficients were calculated to determine variability within and among examiners [ 39 ] and were considered excellent if [ 0.75 [ 40 ] .",
+                "indent(depth)": 6,
+                "sentence-id": 6,
+                "sentence-index": -1
+            },
+            {
+                "content": "Intraobserver intraclass correlation coefficient was 0.997 and 0.995 for the two examiners with combined intraobserver intraclass correlation coefficient 0.996 , which demonstrated high reproducible accuracy in surgical criteria and degree of disc herniation on MRI .",
+                "indent(depth)": 6,
+                "sentence-id": 7,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 7,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 6,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 5,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 5,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 6,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 5
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 6
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 5,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 7
+            }
+        ],
+        "paragraph-id": 19
+    },
+    {
+        "text": [
+            {
+                "content": "The combined interobserver intraclass correlation coefficient was 0.993 which showed no significant difference between examiners and indicated that persons not involved with this study would have a high probability of similar surgical criteria and diagnosis of degree of disc herniation on MRI .",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 20
+    },
+    {
+        "text": [
+            {
+                "content": "Results",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 21
+    },
+    {
+        "text": [
+            {
+                "content": "There was no significant difference between the mean operative time of MED group ( 98.8 min \u00b1 26.9 ) and that of the control group ( 97.27 min \u00b1 13.5 ) ( P = 0.622 , P [ 0.1 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "The mean blood loss of MED procedure ( 41.68 \u00b1 13.18 mL ) was significantly less than that of the control group ( 124.22 \u00b1 24.5 mL ) ( P\\0.05 ) ( Table 2 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "The mean length of hospital stay for the MED group was 10.4 \u00b1 3.5 h and significantly shorter than that of the control group , which is 82.38 \u00b1 18.3 h ( 3.5 days ) ( P\\0.05 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "All the patients had intramuscular NSAIDs injection for pain control on recovery from anesthesia .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "Forthe MED group 21 patients ( 22.1 % ) compared to 66 patients ( 73.3 % ) of control group received NSAIDs during their hospital stay .",
+                "indent(depth)": 4,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "The mean time to return to work/normal activities for the MED group ( 8.5 \u00b1 2.6 days ) was significantly shorter than that of the control group ( 31.4 \u00b1 3.9 days ) ( P\\0.05 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 5,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "summary",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "comparison",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 5
+            }
+        ],
+        "paragraph-id": 22
+    },
+    {
+        "text": [
+            {
+                "content": "There were no serious complications in either group , such as nerve root injury , cauda equina syndrome , spondylodiscitis or thrombosis .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Dural tears were encountered in six patients ( 6.6 % ) in MED group and five patients ( 5.6 % ) in the open group two of them needed reoperation to excise a meningocele formed under the skin .",
+                "indent(depth)": 4,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Transient postoperative dysesthesia developed in five patients [ 2 ( 2.2 % ) in MED group and 3 ( 3.3 % ) in the open group ] .",
+                "indent(depth)": 5,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "Transient urinary retention developed in four patients [ 3 ( 3.3 % ) in MED group and 1 ( 1.1 % ) in the open group ] .",
+                "indent(depth)": 6,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "Five patient ( 5.6 % ) in the open group and three patients ( 3.3 % ) in the MED group had superficial wound infection .",
+                "indent(depth)": 6,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "Overall , the complication rate difference was insignificant between both groups ( P [ 0.05 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 5,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 5,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 5,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 5
+            }
+        ],
+        "paragraph-id": 23
+    },
+    {
+        "text": [
+            {
+                "content": "Overall , 15 patients ( 8.1 % ) in both groups required reoperation at the same level during the follow-up period because of recurrence of radicular symptoms : Five patients ( 2.7 % ) [ two patients ( 2.1 % ) in the MED group and three patients ( 3.3 % ) in the open group ] .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Disabling mechanical low back pain in 10 patients [ four in the MED group and six in the open group ] underwent intervertebral fusion .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "The operative time in revision after MED was 97 min and was significantly shorter than that after open discectomy ( mean 161.2 \u00b1 6.2 min , difference 64.6 min , P = 0.003 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "paragraph-id": 24
+    },
+    {
+        "text": [
+            {
+                "content": "For the MED group , the pain relief was statistically significant , the mean NRS leg and back pain score significantly decreased from 8.9 \u00b1 0.8 and 3.3 \u00b1 1.1 , respectively , to 1.05 \u00b1 0.57 and 1.43 \u00b1 0.8 by 8 years , with a mean difference of 7.8 \u00b1 0.9 and 1.9 \u00b1 1.2 ( P\\0.001 ) .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "For the control group , the mean NRS leg pain score also significantly decreased from 8.8 \u00b1 0.8 preoperative to 2.18 \u00b1 0.8 by 8 years , with a mean difference of 6.6 \u00b1 1.16 ( P\\0.001 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Conversely , the mean NRS back pain score significantly increased from mean score of 3.17 \u00b1 0.85 preoperative to 7.53 \u00b1 0.58 by 8 years , with a mean difference of 4.35 \u00b1 1.07 .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "There was no significant difference between preoperative means of the two groups for NRS leg pain ( P = 0.430 ) and for NRS back pain ( P = 0.293 ) .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ],
+        "paragraph-id": 25
+    },
+    {
+        "text": [
+            {
+                "content": "For MED group , the disability improvement was statistically significant and the mean ODI score significantly decreased from 72.7 \u00b1 8.5 % preoperative to 21.51 \u00b1 5.15 % at final follow-up , with a mean difference of 51.2 \u00b1 9.7 % ( P\\0.001 ) .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "For the control group , the mean ODI score decreased from 70.8 \u00b1 8.8 % preoperative to 59.66 \u00b1 5.30 % at final follow-up , with a mean difference of 11.17 \u00b1 9.5 % ( P\\0.001 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "There was no significant difference between preoperative means of the two groups ( P = 0.140 ) .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "paragraph-id": 26
+    },
+    {
+        "text": [
+            {
+                "content": "Differences between groups\u2019 means at the end of followup period were -1.13 ( 1.34 to -0.92 ) for NRS leg pain , -6.10 ( -6.3 to -5.8 ) for NRS back pain and -38.14 % ( -39.6 to -36.6 % ) for ODI ( Table 3 ) .",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 27
+    },
+    {
+        "text": [
+            {
+                "content": "According to modified MacNab criteria , for MED group 92.6 % had excellent outcomes , 4.2 % good , 1.1 % fair , and 2.1 % poor ; these results remained unchanged throughout the 8-year follow-up period .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "For the control group , 1-year postoperative , 42.2 % had excellent outcomes , 28.9 % good , 24.4 % fair , and 4.4 % poor .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "At the end of the follow-up period 17.8 % had excellent outcomes , 37.8 % good , 21.1 % fair , and 23.3 % poor .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "If the excellent and good categories were regarded as success and fair and poor as failures , then the total success rate of the MED group was 96.8 % which remained unchanged till the end of the follow-up period and 71.1 % for the open group which decreased to 55.6 % by 8 years .",
+                "indent(depth)": 5,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "98 % of MED group showed complete satisfaction with MED procedure and outcome , and would undergo the surgery again for the same condition compared to 40 % of the control group .",
+                "indent(depth)": 5,
+                "sentence-id": 4,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ],
+        "paragraph-id": 28
+    },
+    {
+        "text": [
+            {
+                "content": "Discussion",
+                "indent(depth)": 1,
+                "sentence-id": 0,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 29
+    },
+    {
+        "text": [
+            {
+                "content": "Large uncontained disc herniations ( extrusion and sequestration ) are not among the exclusion criteria of MED procedure [ 27\u201330 , 41 , 42 , 44 , 45 ] .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "However , some spine surgeons .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "reserve MED procedure for small disc herniation.Wu et al .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "[ 30 ] found that some surgeons do not prefer to perform MED procedure because of the anticipated difficulty to decompress the nerve root with restricted surgical field to 18 mm diameter .",
+                "indent(depth)": 5,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "In our study , these limitations have been overcome by : the ability to relocate the working channel , free positioning of the endoscope inside the working channel 360 , the 25 optics allowed expanded magnified field of vision with good illumination .",
+                "indent(depth)": 5,
+                "sentence-id": 4,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 3,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ],
+        "paragraph-id": 30
+    },
+    {
+        "text": [
+            {
+                "content": "MED enables spine surgeon to decompress the neuralelements through direct posterior approach and to extract the disc pathology with smaller skin incision .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Moreover , it minimizes iatrogenic injury to paraspinal muscles and posterior osteoligamentous structures , which are invaluable to the stability of the motion segment [ 27\u201330 , 41 , 42 , 44 , 45 ] .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Dvorak et al .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "[ 43 ] reviewed 575 open discectomy patients and found that 70 % of patients still complaining of low back pain , which was severe in 23 % , and residual sciatica was present in 45 % .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "In our study , for the control group the mean NRS back pain score significantly increased from mean score of 3.17 \u00b1 0.85 preoperative to 7.53 \u00b1 0.58 by 8 years .",
+                "indent(depth)": 4,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "For both groups , the sciatic pain relief was statistically significant immediately postoperative and by 8-year follow-up , with no statistical differences between the two groups .",
+                "indent(depth)": 4,
+                "sentence-id": 5,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "paragraph-id": 31
+    },
+    {
+        "text": [
+            {
+                "content": "The less the resection of spinal canal structures , the less operation-induced complications and instability caused by destruction of coordination system of the dorsal nerve roots .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Preservation of ligamentum flavum reduces epidural scarring and adhesions which are responsible for more difficult and time-consuming reoperations [ 45 ] .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "We limited excision of the ligamentum flavum that made reoperation after MED much more easier than reoperation after open discectomy due to reduced epidural scarring and adhesions .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "The total success rate of the MED group was 96.8 % which remained unchanged by 8 years and 71.1 % for the open group which has fallen to 55.6 % by 8 years and this was concurrent with Salenius and Laurent [ 20 ] who reported initial success rate of open discectomy of 70 % which had fallen to 56 % by 6 years .",
+                "indent(depth)": 3,
+                "sentence-id": 3,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            }
+        ],
+        "paragraph-id": 32
+    },
+    {
+        "text": [
+            {
+                "content": "Hospital stays for MED range between 1 and 2 days [ 27\u201330 , 41 , 42 , 44 , 45 ] , and the average length of hospital stays was 4.8 days in Wu et al .",
+                "indent(depth)": 3,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "[ 30 ] series due to postoperative hospital rehabilitation .",
+                "indent(depth)": 2,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "In our study , the length of hospital stay was decided by both independent doctors ( who were not affiliated with the study ) and patients depending on the general condition of the patient ; as after complete recovery from anesthesia and thorough checking on the vitals and neural functions patients were encouraged to ambulate and after receiving the appropriate medications , uncomplicated MED patients were given the choice to be discharged at the same day of the procedure or stay in-patient for a short-term postoperative rehabilitation program ( 90 % of MED patients chose to be discharged after receiving rehabilitation instructions ) except six patients with dural tears were discharged after 3 days for wound care , three for transient urinary retention and two for dysesthesia were discharged after 24 h. Whereas , open discectomy patients needed 3 days for wound care ( e.g .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "removal of suction drainage after 48 h that was used in 65 patients to decrease the postoperative haematoma ) including the time for a short-term postoperative rehabilitation program .",
+                "indent(depth)": 4,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "In our opinion MED is a cost-effective procedure due to short hospital stay , rapid rehabilitation and low postoperative costs of care , reduced surgical trauma , easier revision operations , monitor image as training tool for assistants .",
+                "indent(depth)": 4,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "The average length of hospital stays was 10.4 h , which was significantly less than the open group 83.45 h ( 3.5 days ) .",
+                "indent(depth)": 4,
+                "sentence-id": 5,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 1,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "cause",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 5
+            }
+        ],
+        "paragraph-id": 33
+    },
+    {
+        "text": [
+            {
+                "content": "MED was proved by intraoperative EMG studies to be superior to open surgical techniques in producing less irritation of the nerve root during both approach and retraction [ 30 , 32 ] , less requirement of postoperative analgesia during hospital stay [ 44 ] , less mean operative blood losses and less mean number of rest days [ 29 , 30 , 45 ] .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "We proved in our study that secondary outcome data of MED were significantly better than the control group and this may be attributable to less tissue trauma .",
+                "indent(depth)": 2,
+                "sentence-id": 1,
+                "sentence-index": -1
+            }
+        ],
+        "line": [],
+        "paragraph-id": 34
+    },
+    {
+        "text": [
+            {
+                "content": "Tosteson et al .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "[ 46 ] in their study found that extension of assessment duration from 2 to 4 years increased the value of surgery in lumbar disc herniation .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "Likewise , extension of the follow-up period in our study has clarified the significant differences in outcome data between the two groups .",
+                "indent(depth)": 3,
+                "sentence-id": 2,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "explanation",
+                "indent(depth)": 1,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 2
+            }
+        ],
+        "paragraph-id": 35
+    },
+    {
+        "text": [
+            {
+                "content": "We found the following limitations of the MED : first , difficulty in suturing dural tears properly due to limited room for suturing tools ; second , a demanding learning curve to gradually trade the hand\u2013eye coupling of the open surgical field with the two-dimensional view and hand\u2013eye spatial separation of the MED procedure .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "The surgeon should be engaged with senior surgeon in MED for observation and assistance plus attending workshops to practice on cadavers .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "As our series progressed , we gained skill and familiarity with instruments and the endoscopic view .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "The operative time , bleeding and iatrogenic dural tears decreased .",
+                "indent(depth)": 5,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "We handled dural tears in MED procedures with watertight sutures in the dura after turning the procedure into an open one .",
+                "indent(depth)": 5,
+                "sentence-id": 4,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 2,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            }
+        ],
+        "paragraph-id": 36
+    },
+    {
+        "text": [
+            {
+                "content": "Large , uncontained , lumbar disc herniations can be sufficiently removed using MED procedure , which is an effective supplementation and alternative to open discectomy procedures with remarkable long-term outcome .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Sciatic pain relief was statistically significant in both techniques with no significant difference between MED and open discectomy .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "The MED respects the anatomy of the spine and doses not decrease its stability .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "Mechanical low back pain showed significant deterioration for control group .",
+                "indent(depth)": 6,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "Maximum benefit can be gained if we adhere to strict selection criteria .",
+                "indent(depth)": 6,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "The optimum indication is singleor multi-level radiculopathy secondary to a single-level , large , uncontained , lumbar disc herniation .",
+                "indent(depth)": 5,
+                "sentence-id": 5,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 5,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 5,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 5
+            }
+        ],
+        "paragraph-id": 37
+    },
+    {
+        "text": [
+            {
+                "content": "Large , uncontained , lumbar disc herniations can be sufficiently removed using MED procedure , which is an effective supplementation and alternative to open discectomy procedures with remarkable long-term outcome .",
+                "indent(depth)": 2,
+                "sentence-id": 0,
+                "sentence-index": -1
+            },
+            {
+                "content": "Sciatic pain relief was statistically significant in both techniques with no significant difference between MED and open discectomy .",
+                "indent(depth)": 3,
+                "sentence-id": 1,
+                "sentence-index": -1
+            },
+            {
+                "content": "The MED respects the anatomy of the spine and doses not decrease its stability .",
+                "indent(depth)": 4,
+                "sentence-id": 2,
+                "sentence-index": -1
+            },
+            {
+                "content": "Mechanical low back pain showed significant deterioration for control group .",
+                "indent(depth)": 6,
+                "sentence-id": 3,
+                "sentence-index": -1
+            },
+            {
+                "content": "Maximum benefit can be gained if we adhere to strict selection criteria .",
+                "indent(depth)": 6,
+                "sentence-id": 4,
+                "sentence-index": -1
+            },
+            {
+                "content": "The optimum indication is singleor multi-level radiculopathy secondary to a single-level , large , uncontained , lumbar disc herniation .",
+                "indent(depth)": 5,
+                "sentence-id": 5,
+                "sentence-index": -1
+            }
+        ],
+        "line": [
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 1,
+                "span(textChildNum)": 5,
+                "begin-id(firstTxtChildId)": 1
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 2,
+                "span(textChildNum)": 4,
+                "begin-id(firstTxtChildId)": 2
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 3,
+                "span(textChildNum)": 3,
+                "begin-id(firstTxtChildId)": 3
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 5,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 4
+            },
+            {
+                "rst_type": "elaboration",
+                "indent(depth)": 4,
+                "span(textChildNum)": 1,
+                "begin-id(firstTxtChildId)": 5
+            }
+        ],
+        "paragraph-id": 38
+    }
+]

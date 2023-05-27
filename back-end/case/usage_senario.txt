@@ -1,0 +1,18 @@
+1. 上传文件解析成rst开始阅读
+2. 作为医学生知道要写background objective methods results conclusion，有意识的去摘取相关句子并分类
+3. 将这些句子合并，进行适当的rephrase（但是没加连接词,选择了较多的resluts但是并没有合并因为表达还不错， conclusion应该是选少了）
+4. 分析根据建议(not fluent; not diverse; not concise)进行修改 加连接词，rephrase，缩句
+
+
+
+
+
+1. 上传文件解析成rst开始阅读
+2. 依据自己以前的知识，他开始有意识的摘取一些句子,  我们分析他的第一稿时发现他第一稿包括objective methods and conclusion，我们询问他，他说依据以前的知识摘要应该有
+3. 进行rephrase
+4. 分析
+5. 根据建议not fluent见一些连接词，根据not diverse再进行词语的替换和句式的改变， 根据建议 not concise 发现conclusion写的太长，分成多句
+6. 再进行分析，比上一版更好
+7. 看参考摘要，发现缺少background 和results，然后conclusion写的太少了
+8. 补上background和results，
+然后他觉的在result中已有体现，不用在加
